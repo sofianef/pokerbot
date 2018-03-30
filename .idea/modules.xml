@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/PokerBot/PokerBot.iml" filepath="$PROJECT_DIR$/PokerBot/PokerBot.iml" />
       <module fileurl="file://$PROJECT_DIR$/pokerbot.iml" filepath="$PROJECT_DIR$/pokerbot.iml" />
     </modules>
   </component>
